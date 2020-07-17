@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi there 👋
+
+<img src="https://github.com/atlansien/atlansien/blob/master/b942f0769466de13acfb07d48b139a01.gif" width="50">
 
 <!--
 **atlansien/atlansien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
