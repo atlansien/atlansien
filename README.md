@@ -1,6 +1,16 @@
+<img src="https://github.com/atlansien/atlansien/blob/master/b942f0769466de13acfb07d48b139a01.gif" width="80">
+
 Hi there 👋
 
-<img src="https://github.com/atlansien/atlansien/blob/master/b942f0769466de13acfb07d48b139a01.gif" width="50">
+I'm a web developer based in Nagoya Japan
+
+Twitter: https://twitter.com/proghallelujah
+
+Qiita: https://qiita.com/atlansien
+
+Wantedly: https://www.wantedly.com/users/97004448
+
+
 
 <!--
 **atlansien/atlansien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
