@@ -1,14 +1,14 @@
-<img src="https://github.com/atlansien/atlansien/blob/master/b942f0769466de13acfb07d48b139a01.gif" width="80">
+<img src="https://github.com/atlansien/atlansien/blob/master/images/genbaneko.gif" width="80">
 
 Hi there 👋
 
 I'm a web developer based in Nagoya Japan
 
-Twitter: https://twitter.com/proghallelujah
+<img src="https://github.com/atlansien/atlansien/blob/master/images/twitter.png" width="20"> Twitter: https://twitter.com/proghallelujah
 
-Qiita: https://qiita.com/atlansien
+<img src="https://github.com/atlansien/atlansien/blob/master/images/qiita.png" width="20"> Qiita: https://qiita.com/atlansien
 
-Wantedly: https://www.wantedly.com/users/97004448
+<img src="https://github.com/atlansien/atlansien/blob/master/images/wantedly.png" width="20"> Wantedly: https://www.wantedly.com/users/97004448
 
 
 
