@@ -13,3 +13,6 @@ I'm a web developer based in Nagoya Japan
 I belong to PREVENT
 
 <img src="https://github.com/atlansien/atlansien/blob/master/images/prevent.png" width="20"> Site :https://prevent.co.jp/
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=atlansien)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atlansien)](https://github.com/anuraghazra/github-readme-stats)
