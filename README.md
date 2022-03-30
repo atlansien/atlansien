@@ -4,7 +4,7 @@ Hi there 👋
 
 I'm a web developer based in Nagoya Japan
 
-<img src="https://github.com/atlansien/atlansien/blob/master/images/twitter.png" width="20"> Twitter: https://twitter.com/proghallelujah
+<img src="https://github.com/atlansien/atlansien/blob/master/images/twitter.png" width="20"> Twitter: https://twitter.com/tockii
 
 <img src="https://github.com/atlansien/atlansien/blob/master/images/qiita.png" width="20"> Qiita: https://qiita.com/atlansien
 
